@@ -16,12 +16,9 @@ IPL is one of the most-watched cricket leagues globally, making it a rich source
 ## 📊 Dashboard Features
 
 - Season-wise match overview
-- Toss analysis vs match outcome
-- Team vs team win distributions
 - Player performance (top batters and bowlers)
-- Venue-wise stats and win rates
 - Match result types and trends
-- Ball-by-ball run analysis
+- Winning % By Toss Decision
 
 ---
 
